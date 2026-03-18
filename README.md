@@ -24,3 +24,8 @@ Use `$pmf-lab` to initialize this workspace, create the first version of the opp
 ## Practical note
 
 This workspace is configured to strongly bias toward `$pmf-lab` through local workspace instructions in [`AGENTS.md`](/Users/anthony/Documents/PMF-Lab-Workspace/AGENTS.md). If the app does not implicitly inject the skill in a given thread, explicitly naming `$pmf-lab` in the first prompt will force the same behavior.
+
+## Repository governance
+
+- Collaboration and commit rules live in [`CONTRIBUTING.md`](/Users/anthony/Documents/PMF-Lab-Workspace/CONTRIBUTING.md).
+- Ignore rules are intentionally minimal and focus on local noise rather than research assets.
