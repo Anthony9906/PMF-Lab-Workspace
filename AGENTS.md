@@ -1,0 +1,9 @@
+- This workspace is dedicated to AI+manufacturing PMF discovery.
+- Default to using [$pmf-lab](/Users/anthony/.codex/skills/pmf-lab/SKILL.md) for all opportunity discovery, prioritization, validation, learning, and memory-update tasks unless the user explicitly asks for a different mode.
+- Treat `/Users/anthony/Documents/PMF-Lab-Workspace/pmf-lab-memory` as the primary long-term memory for this workspace.
+- Keep source evidence, working hypotheses, canonical knowledge, and feedback separate.
+- The agent should do most of the operational work: structure notes, maintain the opportunity pool, propose experiments, score opportunities, summarize evidence, and update memory.
+- The human decides priorities, resource allocation, and PMF judgments.
+- Prefer small, evidence-backed experiments over broad strategy decks or platform designs.
+- Every substantial conversation should end with suggested memory updates when relevant.
+- If a task does not naturally fit `$pmf-lab`, say so briefly and switch to the narrowest appropriate workflow.
