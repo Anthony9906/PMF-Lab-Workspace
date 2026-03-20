@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "74955ffcb9276ae4",
+    "type": "split",
+    "children": [
+      {
+        "id": "17c868338a82051b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84b4fcc485f46385",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pmf-lab-memory/10_Working/opportunity-pool.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "opportunity-pool"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2a39699b8bab9869",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a7eb821257cfea0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a438ea6443ab6bc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5b1269697a6d7dea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ae7770a5bc1a2594",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 383.5
+  },
+  "right": {
+    "id": "26947dd866b6d8ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "07f6c81bcfcea8cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4125dda5b4b15c20",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pmf-lab-memory/10_Working/opportunity-pool.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for opportunity-pool"
+            }
+          },
+          {
+            "id": "a2c0c08c983366b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "pmf-lab-memory/10_Working/opportunity-pool.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from opportunity-pool"
+            }
+          },
+          {
+            "id": "18ab632a56c56d9e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ce559a61364574db",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2af2f3f57152247a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "pmf-lab-memory/10_Working/opportunity-pool.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of opportunity-pool"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "84b4fcc485f46385",
+  "lastOpenFiles": [
+    "pmf-lab-memory/10_Working/OPP-011-standard-part-procurement-key-user-interview-guide.md",
+    "pmf-lab-memory/10_Working/EXP-2026-03-20-003-opp-012-dfm-initial-draft-shadow-test.md",
+    "pmf-lab-memory/10_Working/OPP-011-standard-part-procurement-interview-prep-checklist.md",
+    "pmf-lab-memory/10_Working/OPP-011-procurement-interview-data-request-checklist.md",
+    "pmf-lab-memory/10_Working/OPP-011-cylinder-shadow-test-sample-collection-guide.md",
+    "pmf-lab-memory/10_Working/OPP-011-batch-1-minimum-sample-plan.md",
+    "01_Opportunity_Reviews/2026-03-19-opp-011-validation-plan-v1.md",
+    "pmf-lab-memory/10_Working/OPP-011-batch-1-execution-checklist.md",
+    "pmf-lab-memory/10_Working/OPP-011-batch-1-minimum-sample-sheet.csv",
+    "pmf-lab-memory/10_Working/OPP-011-cylinder-shadow-test-sample-sheet-template.csv",
+    "pmf-lab-memory/10_Working/EXP-2026-03-20-002-opp-011-cylinder-standardization-procurement-shadow-test.md",
+    "02_Experiments/2026-03-20-erp-material-query-v1.md",
+    "skills/erp-search/agents/openai.yaml",
+    "skills/erp-search/references/ui-patterns.md",
+    "skills/erp-search/references/query-playbooks.md",
+    "skills/erp-search/SKILL.md",
+    "skills/erp-search/references",
+    "skills/erp-search/agents",
+    "skills/erp-search",
+    "skills",
+    "03_Weekly_Reviews/ai_manufacturing_okr_q2_2026.pdf",
+    "pmf-lab-memory/10_Working/opportunity-pool.md",
+    "03_Weekly_Reviews/chairman_weekly_report_assets/~$innovation_budget_onepager_v1.pptx",
+    "03_Weekly_Reviews/chairman_weekly_report_assets/innovation_budget_onepager_v1.pptx",
+    "03_Weekly_Reviews/chairman_weekly_report_assets/node_modules/jszip/graph.svg",
+    "03_Weekly_Reviews/chairman_weekly_report_assets/node_modules/jszip/sponsors.md",
+    "03_Weekly_Reviews/chairman_weekly_report_assets/node_modules/jszip/CHANGES.md",
+    "03_Weekly_Reviews/chairman_weekly_report_assets/node_modules/pptxgenjs/README.md",
+    "03_Weekly_Reviews/chairman_weekly_report_assets/node_modules/pako/README.md",
+    "03_Weekly_Reviews/chairman_weekly_report_assets/node_modules/pako/CHANGELOG.md",
+    "03_Weekly_Reviews/chairman_weekly_report_assets/node_modules/readable-stream/doc/wg-meetings/2015-01-30.md",
+    "03_Weekly_Reviews/chairman_weekly_report_assets/node_modules/@types/node/README.md",
+    "03_Weekly_Reviews/chairman_weekly_report_assets/node_modules/util-deprecate/README.md",
+    "03_Weekly_Reviews/chairman_weekly_report_assets/node_modules/util-deprecate/History.md",
+    "03_Weekly_Reviews/chairman_weekly_report_assets/node_modules/undici-types/README.md",
+    "03_Weekly_Reviews/chairman_weekly_report_assets/node_modules/string_decoder/README.md",
+    "03_Weekly_Reviews/chairman_weekly_report_assets/node_modules/safe-buffer/README.md"
+  ]
+}

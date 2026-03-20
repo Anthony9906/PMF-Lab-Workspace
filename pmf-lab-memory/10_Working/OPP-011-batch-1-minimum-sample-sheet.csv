@@ -1,0 +1,2 @@
+case_id,requirement_summary,key_constraints,baseline_model,baseline_is_preferred_model,baseline_price,baseline_price_source,baseline_supplier_option_count,agent_recommended_model,agent_backup_model,agent_is_preferred_model,agent_price,agent_price_source,agent_supplier_option_count,engineering_usability_review,engineering_review_notes,procurement_conclusion,data_completeness,notes
+CASE-B1-001,"","","","","","","","","","","","","","","","","",""

@@ -34,29 +34,36 @@ Active candidate opportunities live here.
 - the current procedural scoring rubric also requires a weighted decision view: strategic fit 25%, closeness to money 25%, validation difficulty 20%, replicability 15%, asset accumulation value 15%
 - Anthony's strategy input introduces one named strategic-anchor candidate: standard-part selection recommendation to procurement cost optimization
 
-## V1.1 rescreen summary
+## V1.2 rescreen summary
 
 - reviewed against the updated strategy: small wedge, close to money, easy to validate, suitable for a 3-month A / B / C cycle
-- enter formal top-6 analysis: OPP-011, OPP-001, OPP-002, OPP-004, OPP-007, OPP-009
-- keep as reserve / observe: OPP-003, OPP-006, OPP-010
+- formal interview 01 added strong internal-access evidence and current-workflow realism for OPP-011, OPP-001, OPP-002, and OPP-003
+- engineering-design intake and DFM template review add a new evidence-backed candidate: OPP-012
+- active top-6 working set: OPP-011, OPP-001, OPP-002, OPP-003, OPP-004, OPP-007
+- keep as reserve / observe: OPP-006, OPP-009, OPP-010
 - exclude from current cycle: OPP-005, OPP-008
-- OPP-003 is the first alternate if internal engineering-document access proves easier than supplier-side workflow access
+- OPP-003 replaced OPP-009 after Anthony confirmed that internal engineering-document access is easier than supplier-side workflow access
+- current operating split: primary line OPP-011, backup line OPP-001, learning track OPP-002
+- in the last two weeks of cylinder-category work, the team validated that an agent can already recommend required cylinder models from the internal standard library with useful accuracy
+- OPP-011 should now be framed as a value stack: engineering-speed improvement first, then standardization leverage, then procurement cost optimization
+- OPP-012 should begin with a narrower first wedge: initial single-machine DFM draft generation under the internal Cowain template, not full lifecycle automation
 
 ## Current shortlist
 
 | id | title | target user / buyer | process step | score | evidence status | status | decision |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| OPP-001 | RFQ and quotation copilot for custom parts | estimator / sales engineer / GM | pre-sales quoting | 34/40 | hypothesis-only | triaged | shortlist for discovery |
-| OPP-002 | NCR and CAPA draft assistant from defect evidence | quality engineer / quality manager | nonconformance handling | 33/40 | hypothesis-only | triaged | shortlist for discovery |
-| OPP-003 | Engineering change to work-instruction update copilot | process engineer / manufacturing engineer | change rollout | 32/40 | hypothesis-only | triaged | shortlist for discovery |
-| OPP-004 | PPAP and FAI package assembly assistant | quality engineer / APQP lead | customer documentation | 31/40 | hypothesis-only | triaged | shortlist for discovery |
+| OPP-001 | RFQ and quotation copilot for custom parts | estimator / sales engineer / GM | pre-sales quoting | 34/40 | internal access confirmed | shortlisted | backup line candidate |
+| OPP-002 | NCR and CAPA draft assistant from defect evidence | quality engineer / quality manager | nonconformance handling | 33/40 | concrete internal scenario identified | shortlisted | A-class learning track candidate |
+| OPP-003 | Engineering change to work-instruction update copilot | process engineer / manufacturing engineer | change rollout | 32/40 | internal access advantage confirmed | shortlisted | enter formal top-6 |
+| OPP-004 | PPAP and FAI package assembly assistant | quality engineer / APQP lead | customer documentation | 31/40 | hypothesis-only | triaged | reserve inside active top-6 |
 | OPP-005 | Machine downtime troubleshooting copilot | maintenance engineer / production manager | fault response | 30/40 | hypothesis-only | triaged | shortlist for discovery |
 | OPP-006 | ECO, BOM, and routing impact summarizer | industrial engineer / operations manager | change impact review | 29/40 | hypothesis-only | triaged | shortlist for discovery |
-| OPP-007 | Customer complaint evidence pack and response draft | quality manager / account manager | complaint handling | 29/40 | hypothesis-only | triaged | shortlist for discovery |
+| OPP-007 | Customer complaint evidence pack and response draft | quality manager / account manager | complaint handling | 29/40 | hypothesis-only | triaged | reserve inside active top-6 |
 | OPP-008 | Production scheduling exception copilot | planner / production manager | dispatch and replanning | 28/40 | hypothesis-only | triaged | watch list |
-| OPP-009 | Supplier drawing and spec change checker | SQE / procurement / quality manager | supplier change control | 28/40 | hypothesis-only | triaged | watch list |
+| OPP-009 | Supplier drawing and spec change checker | SQE / procurement / quality manager | supplier change control | 28/40 | access disadvantage identified | triaged | moved to reserve |
 | OPP-010 | Shift handover and production anomaly summarizer | line leader / supervisor | shift reporting | 27/40 | hypothesis-only | triaged | watch list |
-| OPP-011 | Standard-part selection recommendation for procurement optimization | buyer / sourcing engineer / cost engineer | part selection and sourcing strategy | 35/40 | strategy-input + hypothesis | triaged | strategic anchor candidate |
+| OPP-011 | Standard-part selection recommendation for procurement optimization | buyer / sourcing engineer / cost engineer | part selection and sourcing strategy | 35/40 | internal validation started on cylinder category | testing | primary line candidate |
+| OPP-012 | DFM draft generation and maintenance copilot | mechanical design engineer / project engineer / engineering manager | DFM creation and revision during NPI | 33/40 | template and workflow evidence confirmed | shortlisted | new high-priority candidate pending first-pass validation |
 
 ## Opportunity cards
 
@@ -70,9 +77,9 @@ Active candidate opportunities live here.
 - value hypothesis: reduce quote turnaround time and increase hit rate without increasing estimation errors
 - feasibility hypothesis: feasible if sample RFQ packages and historical quotes are available
 - risk level: medium
-- evidence status: hypothesis-only
+- evidence status: internal access confirmed; historical RFQ packages, drawings, quotation data, and a partially built quotation-management system already exist internally
 - score: 34/40
-- decision: shortlist for discovery
+- decision: backup line candidate
 
 ### OPP-002 NCR and CAPA draft assistant from defect evidence
 
@@ -84,9 +91,9 @@ Active candidate opportunities live here.
 - value hypothesis: reduce admin time per quality event and improve closure speed without reducing review quality
 - feasibility hypothesis: feasible if defect images, templates, and historical cases exist
 - risk level: medium
-- evidence status: hypothesis-only
+- evidence status: concrete internal scenario identified around customer-site FACA reporting for 3C projects; offline and high-security deployment constraints are explicit
 - score: 33/40
-- decision: shortlist for discovery
+- decision: A-class learning track candidate
 
 ### OPP-003 Engineering change to work-instruction update copilot
 
@@ -98,9 +105,9 @@ Active candidate opportunities live here.
 - value hypothesis: shorten change rollout time and reduce missed downstream updates
 - feasibility hypothesis: feasible if change notices, BOM revisions, and instruction templates exist
 - risk level: medium
-- evidence status: hypothesis-only
+- evidence status: internal engineering drawings and documents are easier to access than supplier-side workflow records
 - score: 32/40
-- decision: shortlist for discovery
+- decision: enter formal top-6
 
 ### OPP-004 PPAP and FAI package assembly assistant
 
@@ -114,7 +121,7 @@ Active candidate opportunities live here.
 - risk level: medium
 - evidence status: hypothesis-only
 - score: 31/40
-- decision: shortlist for discovery
+- decision: reserve inside active top-6
 
 ### OPP-005 Machine downtime troubleshooting copilot
 
@@ -156,7 +163,7 @@ Active candidate opportunities live here.
 - risk level: medium
 - evidence status: hypothesis-only
 - score: 29/40
-- decision: shortlist for discovery
+- decision: reserve inside active top-6
 
 ### OPP-008 Production scheduling exception copilot
 
@@ -182,9 +189,9 @@ Active candidate opportunities live here.
 - value hypothesis: reduce unnoticed supplier change risk and speed supplier communication
 - feasibility hypothesis: feasible if revision-controlled drawings and change notifications are available
 - risk level: medium
-- evidence status: hypothesis-only
+- evidence status: internal interview suggests supplier-side access is weaker than internal engineering-document access for the current team
 - score: 28/40
-- decision: watch list
+- decision: moved to reserve
 
 ### OPP-010 Shift handover and production anomaly summarizer
 
@@ -207,9 +214,23 @@ Active candidate opportunities live here.
 - pain statement: standard-part selection is often inconsistent, experience-heavy, and disconnected from downstream procurement cost and lead-time optimization
 - current workaround: engineers and buyers manually compare catalogs, reuse old BOM choices, and negotiate sourcing options without a structured recommendation layer
 - agent fit: high for requirement structuring, catalog filtering, tradeoff explanation, and recommendation drafting with human approval
-- value hypothesis: reduce sourcing cost and selection cycle time while improving standardization and procurement decisions
+- value hypothesis: first reduce engineering selection time and rework, then improve part standardization, and finally create procurement cost and lead-time optimization opportunities
 - feasibility hypothesis: feasible if part catalogs, prior BOMs, and selection constraints can be collected
 - risk level: medium
-- evidence status: strategy-input + hypothesis
+- evidence status: strategy-input + formal interview confirmation + cylinder-category validation indicates the agent can already recommend required models from the standard library with useful accuracy; early standardization signals are appearing through higher preferred-model hit rate, lower new-SKU introduction, and higher reuse across similar needs; engineering-change and communication reduction are not yet verified, and cost value remains to be tested
 - score: 35/40
-- decision: strategic anchor candidate
+- decision: primary line candidate
+
+### OPP-012 DFM draft generation and maintenance copilot
+
+- manufacturing domain: equipment design, NPI engineering, non-standard equipment project delivery
+- user or buyer: mechanical design engineer, project engineer, engineering manager
+- pain statement: DFM creation forces engineers to externalize design logic, parameters, calculations, screenshots, and process rationale into a fixed customer-facing document across 3 to 10 formal versions per project, with even more interim revisions during NPI
+- current workaround: engineers manually assemble DFM slides under the internal template, capture 2D or 3D screenshots, fill tables and calculations by hand, and repeatedly update pages after large design changes or customer review feedback
+- agent fit: high for template-driven section planning, first-draft writing, image and data checklisting, page-level gap detection, and change-impact guidance with human approval
+- value hypothesis: reduce initial DFM preparation time, reduce maintenance workload after major design changes, and improve customer-review readiness without removing engineer responsibility for final technical correctness
+- feasibility hypothesis: feasible if the team can access the internal DFM rules, one fixed editable template family, 3 to 5 historical DFM packs, and project inputs such as BOM, Story version, 2D or 3D images, key process parameters, module descriptions, and standard-part selections
+- risk level: medium
+- evidence status: internal engineering input confirms DFM is a real gating document with many iterations during NPI; the Cowain DFM standard is fixed and highly structured; historical DFM documents are available; approval comments and explicit version-diff annotations are still incomplete, so the first validation should focus on initial draft generation rather than full maintenance automation
+- score: 33/40
+- decision: new high-priority candidate pending first-pass validation

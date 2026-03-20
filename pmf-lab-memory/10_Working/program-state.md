@@ -2,7 +2,7 @@
 
 ## Snapshot
 
-- date: 2026-03-18
+- date: 2026-03-20
 - program: AI + manufacturing PMF discovery
 - stage: initialization
 - horizon: 6 months
@@ -56,7 +56,8 @@ Find one or more narrow, evidence-backed AI+manufacturing product opportunities 
 ## Current strategic anchor
 
 - current named primary-project line from Anthony's strategy input: standard-part selection recommendation to procurement cost optimization
-- status: strategic anchor candidate, not yet finalized in this thread
+- status: confirmed leading line after formal interview 01, with cylinder-category validation already showing that engineering-speed value is real in the current workflow
+- current validation sequence: engineering speed first, standardization second, procurement value third
 
 ## Phase goals
 
@@ -81,21 +82,29 @@ Find one or more narrow, evidence-backed AI+manufacturing product opportunities 
 
 ## Current priorities
 
-1. Complete opportunity-pool v1.1 rescreen against the updated strategy.
-2. Deep-dive the formal top-6 candidate set with Anthony's additional context.
-3. Decide primary project, lightweight validation, and reserve set.
+1. Formalize OPP-011 as the leading primary-project line and turn the current cylinder-category work into a decision-grade validation loop.
+2. Define OPP-001 as the backup line using historical RFQ packages, drawings, and quotation data already available internally.
+3. Reframe OPP-002 as a concrete quality-side learning track around offline FACA reporting under customer-site security constraints.
+4. Replace OPP-009 with OPP-003 in the active top-6 working set because internal engineering-document access is easier than supplier-side workflow access.
 
 ## Current PMF signal summary
 
 - No PMF signal yet.
 - The lab is still at opportunity discovery setup stage.
 - Near-term signal to seek: repeated pain from similar manufacturers plus willingness to continue the conversation, share data, or review a narrow prototype.
+- Internal-access signal is now strong: Anthony can likely obtain cross-functional users, decision-makers, and structured digital records for the leading internal workflows.
+- OPP-011 has early internal validation momentum, and the engineering-speed value hypothesis now has initial support from the cylinder-category skill workflow.
+- OPP-011 now also shows early standardization signals: higher preferred-model hit rate, lower new-SKU introduction, and higher reuse across similar needs in the cylinder workflow.
+- OPP-011 is still below A-class because downstream engineering-change reduction, procurement-value evidence, buyer ownership, metric definition across teams, and repeatability across categories are not yet confirmed.
 
 ## Next deliverables
 
-- opportunity pool v1.1
-- scoring rubric v1
-- first-pass screened candidate set
-- value-difficulty matrix for the first-pass screened opportunities
-- first 3 validation experiments
+- interview-updated opportunity pool v1.2
+- formal primary / backup / learning-track split
+- first active experiment card for OPP-011
+- first validation design for OPP-001 quoting slice
+- deployment-risk framing for offline OPP-002 FACA workflow
 - one 3-month roadmap and one 6-month reserve roadmap
+- formal KPI set for OPP-011 standardization validation
+- first procurement-side comparison for OPP-011 using price and supplier-option evidence
+- one mapped standard-part procurement workflow and one key-user interview on procurement decision ownership for OPP-011

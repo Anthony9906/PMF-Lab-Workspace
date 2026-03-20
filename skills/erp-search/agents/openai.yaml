@@ -1,0 +1,8 @@
+interface:
+  display_name: "ERP Search"
+  short_description: "查询 ERP 物料、采购与供应商数据"
+  brand_color: "#2563EB"
+  default_prompt: "Use $erp-search to query ERP web UI data and return a verified answer with filters, path, and caveats."
+
+policy:
+  allow_implicit_invocation: true
